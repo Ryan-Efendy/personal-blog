@@ -7,7 +7,7 @@ slug: "prayer-changes-things"
 category: "Prayer"
 tags:
   - "Prayer"
-description: "First Prayer Post"
+description: "no need to be anxious 🙌"
 # socialImage: "/media/42-line-bible.jpg"
 ---
 
