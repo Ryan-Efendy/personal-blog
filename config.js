@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
@@ -27,17 +27,17 @@ module.exports = {
   author: {
     name: 'Ryan Efendy',
     photo: '/portrait2.png',
-    bio: 'Deeply flawed human, deeply loved by Jesus. Software Engineer at Microsoft Azure. Taken by Christy Hanafi.',
+    bio: 'Deeply flawed human, deeply loved by Jesus. Software Engineer at Microsoft. Basketball and coffee lover. Love God, love neighbor, yo — that\'s my motto.',
     contacts: {
-      email: '',
+      email: 'ryanefendy95@gmail.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '_ryanefendy',
+      github: 'Ryan-Efendy',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'ryanefendy',
+      instagram: 'ryanefendy_',
       line: '',
       gitlab: '',
       weibo: '',
