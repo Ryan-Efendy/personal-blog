@@ -1,5 +1,5 @@
 ---
-title: Spiritual Disciplines 💪
+title: Spiritual disciplines 💪
 date: "2020-04-24T04:00:10Z"
 template: "post"
 draft: false
@@ -7,7 +7,7 @@ slug: "spiritual-disciplines"
 category: "Prayer"
 tags:
   - "Prayer"
-description: "Feed the Spirit 🤤 Starve the Flesh 🥵"
+description: "feed the spirit 🤤 starve the flesh 🥵"
 # socialImage: "/media/42-line-bible.jpg"
 ---
 
