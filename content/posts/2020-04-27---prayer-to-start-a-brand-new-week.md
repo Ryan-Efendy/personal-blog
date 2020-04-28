@@ -7,7 +7,7 @@ slug: "prayer-to-start-a-brand-new-week"
 category: "Prayer"
 tags:
   - "Prayer"
-description: "test"
+description: ""
 # socialImage: "/media/42-line-bible.jpg"
 ---
 
