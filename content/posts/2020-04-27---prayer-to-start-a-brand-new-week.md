@@ -1,6 +1,6 @@
 ---
 title: Prayer to start a brand new week 🔥
-date: "	2020-04-27T16:25:08Z"
+date: "2020-04-27T16:25:08Z"
 template: "post"
 draft: false
 slug: "prayer-to-start-a-brand-new-week"
