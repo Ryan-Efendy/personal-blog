@@ -1,5 +1,5 @@
 ---
-title: Prayer to start a brand new week 🔥
+title: Prayer for peace ✌️
 date: "2020-04-28T15:54:58Z"
 template: "post"
 draft: false
