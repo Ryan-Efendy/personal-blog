@@ -1,6 +1,6 @@
 ---
 title: Prayer - choose God first ☝️
-date: "2020-05-03T15:54:58Z"
+date: "2020-05-04T15:54:58Z"
 template: "post"
 draft: false
 slug: "prayer-to-choose-god-first"
