@@ -1,5 +1,5 @@
 ---
-title: Prayer - choose God first ☝️
+title: Choose God first ☝️
 date: "2020-05-04T15:54:58Z"
 template: "post"
 draft: false
