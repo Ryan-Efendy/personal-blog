@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Ryan Efendy',
-    photo: '/portrait2.png',
+    photo: '/portrait.png',
     bio: 'Deeply flawed human, deeply loved by Jesus. Software Engineer at Microsoft. Basketball and coffee lover. Love God, love neighbor, yo — that\'s my motto.',
     contacts: {
       email: 'ryanefendy95@gmail.com',
