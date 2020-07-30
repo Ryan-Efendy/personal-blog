@@ -17,6 +17,8 @@ I recently learned this daily routine called thirsty thirty from [@iammiketodd](
 
 I've tried it this week & it has already done wonders in ways I can't explain so I encourage you to try it out if you're looking to get stronger in your faith 😊
 
-> Someone asked how do you pray to God for 10 minutes? Have a conversation w/ God if that makes sense. Talk about your day, about things you're struggling w/ or worried about, pray for friends & family as well as your enemies & ask for answers & guidance & things like that! eventually 10 min will start to feel too short lol
+_Someone asked how do you pray to God for 10 minutes?_
+
+Have a conversation w/ God if that makes sense. Talk about your day, about things you're struggling w/ or worried about, pray for friends & family as well as your enemies & ask for answers & guidance & things like that! eventually 10 min will start to feel too short lol
 
 Another habit I want to incorporate into my life is saying **"I trust you Jesus."** This will be my response to whatever happen to me today, the rest of this week and going forward. This simple practice will help me to remember God is in control, despite what my circumstances tells me. He loves me, He cares for me and He's for me.
