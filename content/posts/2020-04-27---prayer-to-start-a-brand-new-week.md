@@ -1,6 +1,6 @@
 ---
 title: Prayer to start a brand new week 🔥
-date: "2020-04-27T16:25:08Z"
+date: "2020-04-27"
 template: "post"
 draft: false
 slug: "prayer-to-start-a-brand-new-week"
@@ -8,9 +8,8 @@ category: "Prayer"
 tags:
   - "Prayer"
 description: ""
-# socialImage: "/media/42-line-bible.jpg"
 ---
 
-Hi 👋✌️ God,
+Wassup 👋✌️ God,
 
-Thank you for waking me up this morning. Thank you for the gift of life. I pray 🙏 as I go before this brand new week, I leave whatever behind that’s been weighing heavy on me & give it over to You. Whatever I'm holding on help me yield, and allow you to carry it for me. May You continue to reveal to me the areas of my life I need more of You, less of me. Making all the space and cleaning room for You, the only one who feeds 🍞 my soul.
+Thank you for waking me up this morning. Thank you for the gift of life. I pray 🙏 as I go before this brand new week, I leave whatever behind that's been weighing heavy on me and hand it over to You. Whatever I'm holding on help me yield to You. You will help me carry it. May You continue to reveal to me the areas of my life where I need more of You and less of me. I'll make all the space for You, the only one who feeds 🍞 my soul.
