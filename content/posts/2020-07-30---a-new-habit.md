@@ -7,7 +7,7 @@ slug: "a new habit"
 category: "prayer"
 tags:
   - "prayer"
-description: "no need to be anxious 🙌"
+description: ""
 ---
 
 I recently learned this daily routine called thirsty thirty from [@iammiketodd](https://twitter.com/iammiketodd) and [@_keianna](https://twitter.com/_keianna_) where you:
