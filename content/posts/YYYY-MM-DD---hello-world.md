@@ -4,9 +4,9 @@ date: "2020-04-22"
 template: "post"
 draft: false
 slug: "prayer-changes-things"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: "no need to be anxious 🙌"
 ---
 

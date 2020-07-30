@@ -4,9 +4,9 @@ date: "2020-05-05"
 template: "post"
 draft: false
 slug: "adventure-with-jesus"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: ""
 ---
 

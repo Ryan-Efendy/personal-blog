@@ -4,9 +4,9 @@ date: "2020-05-04"
 template: "post"
 draft: false
 slug: "prayer-to-choose-god-first"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: ""
 ---
 

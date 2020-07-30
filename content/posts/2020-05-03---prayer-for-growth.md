@@ -4,9 +4,9 @@ date: "2020-05-03"
 template: "post"
 draft: false
 slug: "prayer-for-growth"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: ""
 ---
 

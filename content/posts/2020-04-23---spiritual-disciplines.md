@@ -4,9 +4,9 @@ date: "2020-04-23"
 template: "post"
 draft: false
 slug: "spiritual-disciplines"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: "feed the spirit 🤤 starve the flesh 🥵"
 ---
 

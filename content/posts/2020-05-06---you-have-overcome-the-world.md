@@ -4,9 +4,9 @@ date: "2020-05-06"
 template: "post"
 draft: false
 slug: "you-have-overcome-the-world"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: ""
 ---
 

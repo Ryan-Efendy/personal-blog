@@ -4,9 +4,9 @@ date: "2020-04-28"
 template: "post"
 draft: false
 slug: "prayer-for-peace"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: ""
 ---
 

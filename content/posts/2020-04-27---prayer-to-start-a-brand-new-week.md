@@ -4,9 +4,9 @@ date: "2020-04-27"
 template: "post"
 draft: false
 slug: "prayer-to-start-a-brand-new-week"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: ""
 ---
 

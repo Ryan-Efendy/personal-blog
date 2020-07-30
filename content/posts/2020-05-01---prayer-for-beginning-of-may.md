@@ -4,9 +4,9 @@ date: "2020-05-01"
 template: "post"
 draft: false
 slug: "prayer-for-beginning-of-may"
-category: "Prayer"
+category: "prayer"
 tags:
-  - "Prayer"
+  - "prayer"
 description: ""
 ---
 
