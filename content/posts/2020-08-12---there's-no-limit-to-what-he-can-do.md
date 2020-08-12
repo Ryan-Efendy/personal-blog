@@ -1,5 +1,5 @@
 ---
-title: There's No Limit To What He Can Do 
+title: There's no limit to what He can do 
 date: "2020-08-12"
 template: "post"
 draft: false
