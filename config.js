@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Ryan Efendy',
+  title: 'Ryan Efendy',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Ryan Efendy',
-    photo: '/portrait.png',
+    photo: '/media/portrait.png',
     bio: 'Deeply flawed human, deeply loved by Jesus. Software Engineer at Microsoft. Basketball and coffee lover. Love God, love neighbor, yo — that\'s my motto.',
     contacts: {
       email: 'ryanefendy95@gmail.com',
