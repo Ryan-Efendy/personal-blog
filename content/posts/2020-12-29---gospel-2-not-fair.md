@@ -1,13 +1,13 @@
 ---
 title: "#Gospel Day 2 Not Fair"
-excerpt: ""
-author: ""
-date: "2020-12-29T17:05:44.057Z"
+date: "2020-12-29"
+template: "post"
 draft: false
-layout: "post"
-featuredImage: ""
-tags: 
-    - Gospel
+slug: ""
+category: "gospel"
+tags:
+  - "gospel"
+description: ""
 ---
 
 <p>Poverty. Racism. Human trafficking. All too often, it seems like the injustices facing our world today drown out the cries for justice. When will oppression, exploitation, and corruption end? We yearn for an impartial judge to set things right. </p>

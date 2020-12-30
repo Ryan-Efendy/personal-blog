@@ -1,13 +1,13 @@
 ---
 title: "#Gospel Day 1 CoffeeTalk"
-excerpt: ""
-author: ""
-date: "2020-12-28T16:59:57.827Z"
+date: "2020-12-28"
+template: "post"
 draft: false
-layout: "post"
-featuredImage: ""
-tags: 
-    - Gospel
+slug: ""
+category: "gospel"
+tags:
+  - "gospel"
+description: ""
 ---
 
 <p>Sin is our failure to hit the mark of perfection.  No matter how noble a person's actions are, no matter how much he or she works toward the greater good, no matter how spectacular his or her "coffee" is, nothing can eliminate the toxin of sin. Your skin color, social status, wealth, or popularity have no sway here. The playing field is leveled.  No one escapes the taint of sin. We are all infected. We desperately need a cure. The Gospel is the message we have all been waiting for.</p>

@@ -1,13 +1,13 @@
 ---
 title: "#Gospel Day 3 Rescue Plan"
-excerpt: ""
-author: ""
-date: "2020-12-30T17:08:42.072Z"
+date: "2020-12-30"
+template: "post"
 draft: false
-layout: "post"
-featuredImage: ""
-tags: 
-    - Gospel
+slug: ""
+category: "gospel"
+tags:
+  - "gospel"
+description: ""
 ---
 
 <p>It was in a garden that, for the first time, humankind was presented with the choice of true love or selfishness. We chose wrong. Through one man, Adam, sin entered the world. With sin came death, and its effect would ravage the Earth. Sin had infected humankind and separated them from their Creator. But in this darkness, a glimmer of hope began to shine: God's promise of a divine rescue plan. Through another man, Jesus Christ, hope pierced through the darkness with the promise of everlasting life and a restored relationship with our Creator.</p>
