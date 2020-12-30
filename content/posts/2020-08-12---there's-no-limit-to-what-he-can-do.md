@@ -1,12 +1,12 @@
 ---
-title: "#Gospel Day 1 CoffeeTalk"
-date: "2020-12-28"
+title: There's no limit to what He can do 
+date: "2020-08-12"
 template: "post"
 draft: false
-slug: ""
-category: "gospel"
+slug: "there's no limitto what he can do"
+category: "prayer"
 tags:
-  - "gospel"
+  - "prayer"
 description: ""
 ---
 
